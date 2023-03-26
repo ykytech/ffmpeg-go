@@ -1,4 +1,4 @@
-module github.com/yktech/ffmpeg-go
+module github.com/ykytech/ffmpeg-go
 
 go 1.16
 
